@@ -23,7 +23,7 @@
 ## 注意事项
 - 本版本基于 Meteor Client [填写具体版本号，如 0.5.6] 编译。
 - 包含的 Addon 模块可能需要额外的依赖库，请根据报错提示安装。
-- **署名说明**：本汉化基础文本来源于 [dingzhen I18n](https://github.com/dingzhen/I18n)，由 QHX-like-play-MC 进行深度校对与重构。
+- **署名说明**：本汉化基础文本来源于 [dingzhen I18n](https://github.com/dingzhen/I18n)，由 [你的名字] 进行深度校对与重构。
 
 ## 更新日志
 - **v1.0**: 初始发布，修复核心模块翻译错误。
