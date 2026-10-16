@@ -1,4 +1,5 @@
-# Meteor I18n Support
+# Meteor I18n Support精修汉化版
+> 以下为`Meteor I18n Support`本来的`README.md`
 #### 这个插件为Meteor本体添加了lang语言文件支持，使大部分文字可以进行非硬编码更改
 ### How to use
 与Meteor本体一起使用 像其他插件一样 放入mods文件夹即可
@@ -73,3 +74,8 @@ Wurst Client (for the I18n support concept)
 
 <img width="2560" height="1351" alt="Snipaste_2025-07-31_02-19-29" src="https://github.com/user-attachments/assets/af281df7-9e49-44e5-b1cb-a71de21f7ffc" />
 
+
+## 精修汉化版修复了原本的机翻，提供更准确的汉化
+### 鸣谢
+- dingzhen-vape
+- Meteor I18n Support开发组及成员
